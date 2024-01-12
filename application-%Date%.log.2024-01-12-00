@@ -1,0 +1,17 @@
+{"level":"info","message":"Starting Nest application..."}
+{"level":"info","message":"MongooseModule dependencies initialized"}
+{"level":"info","message":"ConfigHostModule dependencies initialized"}
+{"level":"info","message":"AppModule dependencies initialized"}
+{"level":"info","message":"ConfigModule dependencies initialized"}
+{"level":"info","message":"MongooseCoreModule dependencies initialized"}
+{"level":"info","message":"MongooseModule dependencies initialized"}
+{"level":"info","message":"UsersModule dependencies initialized"}
+{"level":"info","message":"AppController {/}:"}
+{"level":"info","message":"Mapped {/, GET} route"}
+{"level":"info","message":"UsersController {/users}:"}
+{"level":"info","message":"Mapped {/users, POST} route"}
+{"level":"info","message":"Mapped {/users/:id, GET} route"}
+{"level":"info","message":"Mapped {/users, GET} route"}
+{"level":"info","message":"Mapped {/users/:id, PUT} route"}
+{"level":"info","message":"Mapped {/users/:id, DELETE} route"}
+{"level":"info","message":"Nest application successfully started"}
